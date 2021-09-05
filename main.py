@@ -27,7 +27,6 @@ print ('\033[1;97m')
 token = input('TOKEN: ')
 id1 = input('ID 1: ')
 id2 = input('ID 2: ')
-full = '881281025475506207/recipients/853023796385546261'
 
 headers = {
 
